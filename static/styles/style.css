@@ -1,0 +1,94 @@
+body {
+    margin: 0px;
+    font-family: arial;
+}
+
+header {
+    background-color: #f1f1f1;
+    padding: 10px 5px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.blue {
+    color: #4285F4;
+}
+
+.red {
+    color: #EA4335;
+}
+
+.title {
+    font-family: 'Product Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin: 0px;
+    margin: 0px 20px;
+    float: left;
+}
+
+.options {
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+#search {
+    padding: 10px;
+    font-size: 1em;
+    width: 500px;
+    border: 1px solid #e5e5e5;
+}
+
+ul.options {
+    padding-left: 80px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+ul.types li {
+    color: #777;
+    font-size: .9em;
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 25px;
+    padding-bottom: 15px;
+}
+
+ul.types li.selected {
+    border-bottom: 3px solid #4285F4;
+}
+
+ul.types {
+    padding-left: 80px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+ul.options li {    
+    color: #777;
+    font-size: .9em;
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 25px;
+}
+
+ul.creation {
+    float: right;
+    margin: 0px;
+    padding: 10px;
+}
+
+ul.creation li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 25px;
+}
+
+main {
+    padding: 10px 5px;
+}
+
+main h2 {
+    font-weight: normal;
+    font-size: 1.2em;
+}
+
+.card {
+    width: 
+}
